@@ -1,4 +1,4 @@
-"Player","Team","POS","ATT","YDS","TDS","REC","YDS","TDS","FL","FPTS"
+"Player","Team","POS","RUSHATT","RUSHYDS","RUSHTDS","REC","RECYDS","RECTDS","FL","FPTS"
 " "," ","","",""
 "Christian McCaffrey","SF","RB1","274.2","1,294.6","11.7","69.9","566.2","4.8","1.7","351.4"
 "CeeDee Lamb","DAL","WR1","9.8","68.4","0.8","116.4","1,495.4","9.7","1.1","333.8"
