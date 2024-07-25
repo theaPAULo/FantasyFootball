@@ -1,4 +1,4 @@
-"Player","Team","ATT","CMP","YDS","TDS","INTS","ATT","YDS","TDS","FL","FPTS"
+"Player","Team","PASSATT","PASSCMP","PASSYDS","PASSTDS","INTS","RUSHATT","RUSHYDS","RUSHTDS","FL","FPTS"
 " ","","",""
 "Jalen Hurts","PHI","520.1","339.7","3,811.3","24.4","12.3","145.6","625.0","11.3","3.8","360.4"
 "Josh Allen","BUF","559.6","364.5","4,029.5","27.6","14.2","107.4","546.6","8.9","4.0","357.1"
